@@ -1,0 +1,44 @@
+.project_card {
+    width: 336px;
+    height: 100%;
+
+    margin: 20px;
+    display: inline-block;
+    background: #FFFFFF;
+    border: 1px solid #DFDFDF;
+    box-shadow: 183.342px 87.148px 80px rgba(0, 0, 0, 0.04), 70.6206px 33.5681px 25.4815px rgba(0, 0, 0, 0.0242963), 14.939px 7.10095px 6.51852px rgba(0, 0, 0, 0.0157037);
+    border-radius: 4px;
+}
+
+.main_section {
+    vertical-align: center;
+    margin: 90px;
+
+}
+
+.pro_dis {
+    margin: 10px;
+    font-size: 16px;
+
+}
+
+.pro_img {
+    width: 100%;
+
+}
+
+.pro_name {
+    margin: 10px;
+    color: #282C34;
+}
+
+@media (max-width: 575.98px) {
+
+
+    .main_section {
+        vertical-align: center;
+        margin: 0px;
+    }
+
+
+}

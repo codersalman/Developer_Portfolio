@@ -1,0 +1,39 @@
+.about_main {
+    padding: 30px;
+    margin-left: 50px;
+    width: 70%;
+
+
+}
+
+.head_about {
+    padding: 50px;
+
+    padding-bottom: 10px;
+    font-size: 70px;
+}
+
+.text {
+    font-size: 20px;
+    padding-left: 50px;
+
+}
+
+
+.navd {
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+
+@media (max-width: 575.98px) {
+
+    .about_main {
+        /* padding: 0; */
+        margin-left: -48px;
+        width: 94%;
+    }
+
+
+}
